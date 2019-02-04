@@ -1,2 +1,2 @@
 # andela-stackoverflow-lite
-StackOverflow-Lite: Andela Workshop Challenge
+StackOverflow-Lite: Andela Bootcamp/Workshop Challenge
